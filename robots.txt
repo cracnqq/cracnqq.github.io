@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cracnqq.github.io/sitemap.xml
